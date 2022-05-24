@@ -3,7 +3,7 @@ A repo dedicated to store basic concepts and exercises about ES6 using Node and 
 
 # Chapters 
 • 1 - Hello World and basics;</br>
-• 2 - DOM goes Brrr;</br>
+• 2 - DOM manipulation (utterly simple);</br>
 • 3 - Math Time;</br>
 • 4 - Functions;</br>
 • 5 - Loops;</br>
