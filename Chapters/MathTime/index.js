@@ -1,3 +1,5 @@
+// Some very basic math with JS
+// Bear in mind wee have some built in Math methods, such as Math.pow()
 var num1 = 69;
 var num2 = 10;
 
