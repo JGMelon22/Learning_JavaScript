@@ -13,6 +13,6 @@ A repo dedicated to store basic concepts and exercises about ES6 using Node and 
 • 9 - Objects;                                   
 • 10 - Conditionals and switch statements;    
 • 11 - JSON Basics;                            
-<em>And some small projects to practice :D</em>
+<em>Plus some simple exercises and small projects to practice :D</em>
 
 ![image](https://user-images.githubusercontent.com/73988556/170095502-faa22337-952a-424f-a404-6acea237501d.png)
