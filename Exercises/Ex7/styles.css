@@ -1,0 +1,9 @@
+html,
+body {
+    width:85%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://aws1.discourse-cdn.com/business5/uploads/eve/original/2X/5/5d3099cdcac71048b3fce37f1f6dabe981f45e0e.png");
+    background-color: #cccccc;
+    color:rgb(255, 255, 255)
+}
