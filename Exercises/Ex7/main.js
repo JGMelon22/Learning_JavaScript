@@ -20,3 +20,6 @@ clockButton.addEventListener("click", function () {
 calendarButton.addEventListener("click", function () {
     window.alert(`Current date is: ${currentDate.toString()}`);
 });
+
+console.log(new Date().getMonth());
+console.log(new Date().getDay());

@@ -11,7 +11,7 @@ var con = mysql.createConnection({
 
 con.connect(function (err) {
     if (err) throw err;
-    con.query("SELECT * FROM employee LIMIT 10", function (err, result, fields) {
+    con.query("SELECT * FROM employee LIMIT 10", function (err, result) {
         if (err) throw err;
         console.log(result);
     });

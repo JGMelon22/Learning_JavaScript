@@ -2,7 +2,7 @@
 let age = 20;
 
 // String
-let name = "João Gabriel"
+let name = "João Gabriel";
 
 // Object
 let fullName = {
