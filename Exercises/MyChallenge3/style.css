@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://cdn.wallpapersafari.com/28/37/6aryTh.jpg");
+}
+
+h2 {
+    color: rgb(231, 231, 40);
+    text-align: center;
+    font-style: italic;
+    font-size: x-large;
+    font-family:sans-serif
+}
+
+h4 {
+    color: aliceblue;
+    font-family:sans-serif
+}
+
+p {
+    color: aliceblue;
+    font-family:sans-serif
+}
+
+#money {
+    color: rgb(8, 145, 8);
+}
+
+#btnTest {
+    color: black;
+    font-weight:bolder;
+    cursor: pointer;
+    border-radius: 0.45cm;
+    padding: 2px;
+    margin: auto;
+    background-color: azure;
+}

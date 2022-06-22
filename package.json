@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "cli-color": "^2.0.2",
     "mysql2": "^2.3.3",
     "prompt-sync": "^4.2.0"
   }
