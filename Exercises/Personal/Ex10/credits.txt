@@ -1,0 +1,1 @@
+All credits for the CSS style sheet the goes to [gkroon](https://github.com/gkroon/dracula-css)
